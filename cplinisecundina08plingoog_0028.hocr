@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cplinisecundina08plingoog_0028.png"; bbox 0 0 2888 4794; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 113 1066 1234 1188">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 113 1066 1234 1188">
+     <span class='ocr_line' id='line_1_1' title="bbox 113 1066 1234 1188; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 113 1066 640 1188; x_wconf 85' lang='lat' dir='ltr'><strong>ALEXANDRO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 663 1104 731 1187; x_wconf 81' lang='lat' dir='ltr'>AB</span> <span class='ocrx_word' id='word_1_3' title='bbox 760 1067 1234 1186; x_wconf 87' lang='lat' dir='ltr'>HUMBOLDT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 200 1897 1147 2092">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 1897 1147 2092">
+     <span class='ocr_line' id='line_1_2' title="bbox 200 1897 1147 2092; baseline 0.001 -69"><span class='ocrx_word' id='word_1_4' title='bbox 200 1903 666 2092; x_wconf 66' lang='lat' dir='ltr'>Fssfflssffloo</span> <span class='ocrx_word' id='word_1_5' title='bbox 716 1897 1147 2026; x_wconf 73' lang='lat' dir='ltr'>THIERSOH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 481 3946 1043 4031">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 481 3946 1043 4031">
+     <span class='ocr_line' id='line_1_3' title="bbox 481 3946 1043 4031; baseline 0.02 -11"><span class='ocrx_word' id='word_1_6' title='bbox 481 3947 646 4022; x_wconf 81' lang='lat' dir='ltr'>IULIUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 675 3946 843 4023; x_wconf 84' lang='lat' dir='ltr'>SILLIG.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1036 4020 1043 4031; x_wconf 92' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1448 4794">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1448 4794">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1448 4794; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1448 4794; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
